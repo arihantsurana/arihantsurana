@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="Ari's GitHub Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=arihantsurana&show_icons=true&theme=default&hide_title=true" />
 
 ### Hi there 👋
 
@@ -22,19 +21,4 @@ I'm Ari!
 <a href="http://twitter.com/ari_surana"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 <a href="https://arihantsurana.com"><img src="https://img.shields.io/badge/Blog--_.svg?style=social&logo=blog" alt="Blog"></a>
 
-#### 👷 Check out what I'm currently working on
-
-
-#### 🌱 My latest projects
-
-
-#### 🔭 Latest releases I've contributed to
-
-
-#### 📜 My recent blog posts
-
-
-#### 📓 Gists I wrote
-
-
-
+[arisurana.com](https://arisurana.com)
